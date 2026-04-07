@@ -1,20 +1,59 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Midnight Violet - Fintech Dashboard
 
-# Run and deploy your AI Studio app
+Midnight Violet is a sleek, modern fintech application dashboard built with React, TypeScript, and Tailwind CSS. It features a dark-themed UI with smooth animations and interactive components, designed to provide a premium user experience.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/566cb885-daf1-46b9-b6c6-de0d134170f9
+- **Home Dashboard**: Overview of balance, quick actions (Send, Receive, Top Up, Exchange), and recent transactions.
+- **Analytics**: Detailed spending breakdown with interactive bar charts and category analysis.
+- **Currency Exchange**: Real-time currency conversion interface with success feedback.
+- **Savings Vaults**: Visual progress tracking for financial goals with animated progress rings.
+- **Card Management**: 3D-tilt enabled card carousel with security controls and "Frozen" state visualization.
+- **Interactive UI**: Smooth transitions and micro-interactions powered by `motion/react`.
 
-## Run Locally
+## Tech Stack
 
-**Prerequisites:**  Node.js
+- **Framework**: [React 19](https://react.dev/)
+- **Language**: [TypeScript](https://www.typescriptlang.org/)
+- **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
+- **Animations**: [Motion](https://motion.dev/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
 
+## Getting Started
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18 or higher)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/midnight-violet.git
+   cd midnight-violet
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:3000`.
+
+## Scripts
+
+- `npm run dev`: Starts the development server.
+- `npm run build`: Builds the application for production.
+- `npm run preview`: Previews the production build locally.
+- `npm run lint`: Runs TypeScript type checking.
+
+## License
+
+This project is licensed under the MIT License.
