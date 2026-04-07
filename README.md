@@ -14,12 +14,12 @@ Midnight Violet is a sleek, modern fintech application dashboard built with Reac
 ## Screenshots
 
 | Home Dashboard | Analytics | Exchange |
-| :---: | :---: | :---: |
-| ![Home Dashboard](./screenshots/home.png) | ![Analytics](./screenshots/analytics.png) | ![Exchange](./screenshots/exchange.png) |
+| :---: | : :---: | :---: |
+| ![Home Dashboard](/screenshots/home.png) | ![Analytics](/screenshots/analytics.png) | ![Exchange](/screenshots/exchange.png) |
 
 | Vaults | Cards |
 | :---: | :---: |
-| ![Vaults](./screenshots/vaults.png) | ![Cards](./screenshots/cards.png) |
+| ![Vaults](/screenshots/vaults.png) | ![Cards](/screenshots/cards.png) |
 
 ## Tech Stack
 
