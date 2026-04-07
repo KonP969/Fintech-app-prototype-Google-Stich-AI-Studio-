@@ -11,6 +11,16 @@ Midnight Violet is a sleek, modern fintech application dashboard built with Reac
 - **Card Management**: 3D-tilt enabled card carousel with security controls and "Frozen" state visualization.
 - **Interactive UI**: Smooth transitions and micro-interactions powered by `motion/react`.
 
+## Screenshots
+
+| Home Dashboard | Analytics | Exchange |
+| :---: | :---: | :---: |
+| ![Home Dashboard](https://picsum.photos/seed/midnight-home/400/800) | ![Analytics](https://picsum.photos/seed/midnight-analytics/400/800) | ![Exchange](https://picsum.photos/seed/midnight-exchange/400/800) |
+
+| Vaults | Cards |
+| :---: | :---: |
+| ![Vaults](https://picsum.photos/seed/midnight-vaults/400/800) | ![Cards](https://picsum.photos/seed/midnight-cards/400/800) |
+
 ## Tech Stack
 
 - **Framework**: [React 19](https://react.dev/)
