@@ -15,11 +15,11 @@ Midnight Violet is a sleek, modern fintech application dashboard built with Reac
 
 | Home Dashboard | Analytics | Exchange |
 | :---: | :---: | :---: |
-| ![Home Dashboard](https://github.com/KonP969/Fintech-app-prototype-Google-Stich-AI-Studio-/raw/main/screenshots/home.png) | ![Analytics](https://github.com/KonP969/Fintech-app-prototype-Google-Stich-AI-Studio-/raw/main/screenshots/analytics.png) | ![Exchange](https://github.com/KonP969/Fintech-app-prototype-Google-Stich-AI-Studio-/raw/main/screenshots/exchange.png) |
+| ![Home Dashboard](screenshots/home.png) | ![Analytics](screenshots/analytics.png) | ![Exchange](screenshots/exchange.png) |
 
 | Vaults | Cards |
 | :---: | :---: |
-| ![Vaults](https://github.com/KonP969/Fintech-app-prototype-Google-Stich-AI-Studio-/raw/main/screenshots/vaults.png) | ![Cards](https://github.com/KonP969/Fintech-app-prototype-Google-Stich-AI-Studio-/raw/main/screenshots/cards.png) |
+| ![Vaults](screenshots/vaults.png) | ![Cards](screenshots/cards.png) |
 
 ## Tech Stack
 
